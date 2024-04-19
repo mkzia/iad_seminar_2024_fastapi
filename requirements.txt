@@ -1,0 +1,14 @@
+dill
+fastapi
+gdown
+joblib
+jupyter
+numpy
+pandas
+Pydantic
+scikit-learn
+streamlit
+"uvicorn[standard]"
+xgboost
+ydata-profiling
+gunicorn
