@@ -8,7 +8,7 @@ pandas
 Pydantic
 scikit-learn
 streamlit
-"uvicorn[standard]"
+uvicorn
 xgboost
 ydata-profiling
 gunicorn
