@@ -1,14 +1,9 @@
 dill
 fastapi
 gdown
-joblib
-jupyter
 numpy
 pandas
 Pydantic
 scikit-learn
-streamlit
 uvicorn
-xgboost
-ydata-profiling
 gunicorn
